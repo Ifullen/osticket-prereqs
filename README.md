@@ -40,10 +40,11 @@ First lets get started with creating our resource group in Azure portal. Then we
 <p>
 <img src="https://i.imgur.com/ixmYY5O.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+We are creating our VM in Azure portal
 <p>
 
 </p>
-<br />We are creating our VM in Azure portal
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
