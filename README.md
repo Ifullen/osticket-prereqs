@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 First lets get started with creating our resource group in Azure portal. Then we will create a VM to protect our physical machine for changes that we make.
-</p>vir
+</p>VM
 <br />
 
 <p>
