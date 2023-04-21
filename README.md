@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 2
 - Item 3
 - Item 4
-- Item 5
+- Item 5ma
 
 <h2>Installation Steps</h2>
 
@@ -32,8 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/NoEjBJC.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First lets get started with creating our resource group 
-</p>
+First lets get started with creating our resource group in Azure portal. Then we will create a VM to protect our physical machine for changes that we make.
+</p>vir
 <br />
 
 <p>
