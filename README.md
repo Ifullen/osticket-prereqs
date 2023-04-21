@@ -46,7 +46,7 @@ We are creating our VM in Azure portal
 <br />
 
 <p>
-<img src="https://i.imgur.com/uoWQKjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uoWQKjp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Now we are connecting to our new VM via  RDP Using public Ipv4 address. 
 </p>
