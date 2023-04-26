@@ -50,3 +50,44 @@ We are creating our VM in Azure portal
 </p>
 Now we are connecting to our new VM via  RDP Using public Ipv4 address. 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/KzS2oss.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+ <                                                                                              
+<img src="https://i.imgur.com/PjaPUWn.png" height="50%" width=50%" alt="Disk Sanitization Steps"/>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+ 
+<p>
+<img src="https://i.imgur.com/Zr2GROp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/EV33QKQ.png" height="50%" width="50% alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/IDrJnyN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                                                            
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+  <img src="https://i.imgur.com/1SqUTqM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                                                                
+<br />
+
+<p>
+<img src="https://i.imgur.com/JBfANPO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xFj7dxc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tXBpOaP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RQLI6qe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                                    <img src="https://i.imgur.com/L0PvUNS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/esp5Ku6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ot0jZy6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                             
+<img src="https://i.imgur.com/LKwpKeh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/Ybn14J7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                        
+<img src="https://i.imgur.com/YL4A6Hv.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>   
+<img src="https://i.imgur.com/j2zQeIE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kOq4kex.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+                                                                                                 
+                                                                                                 
+                                                                                                 
+lit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
